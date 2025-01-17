@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
-namespace _20_TimerExample
+namespace episodio_20
 {
     class Program
     {
