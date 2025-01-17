@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _8_WhileIteration
+namespace octavo_episodio
 {
     class Program
     {
