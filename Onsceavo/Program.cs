@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _11_SimpleClasses
+namespace onceavo
 {
     class Program
     {
@@ -19,7 +19,6 @@ namespace _11_SimpleClasses
             Console.WriteLine("{0} {1} {2} {3}", myCar.Make, myCar.Model, myCar.Year, myCar.color);
 
             decimal value = DetermineMarketValue(myCar);
-            //Console.WriteLine("{0:C}", value);
 
             Console.WriteLine("{0:C}", myCar.DetermineMarketValue());
 
