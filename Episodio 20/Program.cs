@@ -10,7 +10,7 @@ namespace _20_TimerExample
     {
         static void Main(string[] args)
         {
-            Timer myTimer = new Timer(2000); //in milliseconds
+            Timer myTimer = new Timer(2000);
 
             myTimer.Elapsed += MyTimer_Elapsed;
             myTimer.Elapsed += MyTimer_Elapsed1;
