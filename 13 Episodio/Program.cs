@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _13_ClassesInheritance
+namespace _13_Episodio
 {
     class Program
     {
-        //working with abstract base class
+        
         static void Main(string[] args)
         {
             car mycar = new car();
@@ -48,15 +48,14 @@ namespace _13_ClassesInheritance
         class car : Vehicle
         {
 
-            //virtual allows to offer override
-            //abstract says you have to change it
+         
             public override string FormatMe()
             {
                 return String.Format("{0} - {1} - {2} - {3}", this.Make, this.Model, this.Color, this.Year);
 
             }
         }
-        //sealed prohibits from inheriting 
+  
         sealed class Truck : Vehicle
         {
             public int TowingCapacity { get; set; }
