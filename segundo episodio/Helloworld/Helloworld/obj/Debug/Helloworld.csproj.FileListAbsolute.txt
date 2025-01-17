@@ -1,0 +1,7 @@
+C:\Users\angel\source\repos\c-learn\Proyect learn\segundo episodio\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Users\angel\source\repos\c-learn\Proyect learn\segundo episodio\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Users\angel\source\repos\c-learn\Proyect learn\segundo episodio\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\Users\angel\source\repos\c-learn\Proyect learn\segundo episodio\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\c-learn\Proyect learn\segundo episodio\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\c-learn\Proyect learn\segundo episodio\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\Users\angel\source\repos\c-learn\Proyect learn\segundo episodio\Helloworld\Helloworld\obj\Debug\Helloworld.pdb

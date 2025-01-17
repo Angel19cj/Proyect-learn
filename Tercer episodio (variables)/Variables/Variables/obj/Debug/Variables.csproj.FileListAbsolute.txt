@@ -1,0 +1,7 @@
+C:\Users\angel\source\repos\c-learn\Proyect learn\Tercer episodio (variables)\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\angel\source\repos\c-learn\Proyect learn\Tercer episodio (variables)\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\angel\source\repos\c-learn\Proyect learn\Tercer episodio (variables)\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\angel\source\repos\c-learn\Proyect learn\Tercer episodio (variables)\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\c-learn\Proyect learn\Tercer episodio (variables)\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\c-learn\Proyect learn\Tercer episodio (variables)\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\angel\source\repos\c-learn\Proyect learn\Tercer episodio (variables)\Variables\Variables\obj\Debug\Variables.pdb
