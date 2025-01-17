@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _5_ForIteration
+namespace quinto_episodio
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace _5_ForIteration
         {
             for (int i = 0; i < 10; i++)
             {
-              //  Console.WriteLine(i);
+              
               if(i == 7)
                 {
                     Console.WriteLine("Found seven!");
